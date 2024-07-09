@@ -32,9 +32,9 @@ The repository is structured as follows:
 
 ## 📈 Progress
 
-| Day | Problem Title                                                                                                                             | Solution Link                                                                                                       |
-|-----|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| 1   | [Recyclable and Low Fat Products](01.LeetCode#1757_Recyclable_and_Low_Fat_Products/01.LeetCode#1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode#1757_Recyclable_and_Low_Fat_Products/01.LeetCode#1757_Recyclable_and_Low_Fat_Products.sql) |
+| Day | Problem Title                                                                                                                           | Solution Link                                                                                                     |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1   | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql) |
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
