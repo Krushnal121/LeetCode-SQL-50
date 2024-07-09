@@ -69,7 +69,3 @@ This repository is primarily for my personal learning, but contributions are wel
 For any questions or suggestions, feel free to reach out to me via GitHub issues.
 
 Happy coding! 🎉
-
----
-
-Feel free to customize this template further as per your specific needs.
