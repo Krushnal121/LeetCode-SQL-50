@@ -37,7 +37,6 @@ The repository is structured as follows:
 | 1   | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md)                       | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql)               |
 | 2   | [Find Customer Referee](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.md)                                                       | [Solution](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.sql)                                     |
 | 3   | [Big Countries](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.md)                                                                               | [Solution](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.sql)                                                     |
-| 4   | [Managers with at Least 5 Direct Reports](04.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/04.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.md) | [Solution](04.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/04.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.sql) |
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
