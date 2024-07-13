@@ -32,11 +32,12 @@ The repository is structured as follows:
 
 ## 📈 Progress
 
-| Day | Problem Title                                                                                                                                                 | Solution Link                                                                                                                   |
-|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md)                       | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql)               |
-| 2   | [Find Customer Referee](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.md)                                                       | [Solution](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.sql)                                     |
-| 3   | [Big Countries](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.md)                                                                               | [Solution](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.sql)                                                     |
+| Day | Problem Title                                                                                                                           | Solution Link                                                                                                     |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1   | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql) |
+| 2   | [Find Customer Referee](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.md)                                 | [Solution](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.sql)                       |
+| 3   | [Big Countries](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.md)                                                         | [Solution](03.LeetCode@595_Big_Countries/03.LeetCode@595_Big_Countries.sql)                                       |
+| 4   | [Article Views I](04.LeetCode@1148_Article_Views_I/04.LeetCode@1148_Article_Views_I.md)                                                 | [Solution](04.LeetCode@1148_Article_Views_I/04.LeetCode@1148_Article_Views_I.sql)                                 |
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
