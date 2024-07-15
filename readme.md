@@ -40,6 +40,8 @@ The repository is structured as follows:
 | 4   | [Article Views I](04.LeetCode@1148_Article_Views_I/04.LeetCode@1148_Article_Views_I.md)                                                                                              | [Solution](04.LeetCode@1148_Article_Views_I/04.LeetCode@1148_Article_Views_I.sql)                                                               |
 | 5   | [Invalid Tweets](05.LeetCode@1683_Invalid_Tweets/05.LeetCode@1683_Invalid_Tweets.md)                                                                                                 | [Solution](05.LeetCode@1683_Invalid_Tweets/05.LeetCode@1683_Invalid_Tweets.sql)                                                                 |
 | 6   | [Replace Employee ID With The Unique Identifier](06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier/06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier.md) | [Solution](06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier/06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
+| 7   | [Product Sales Analysis I](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.md)                                                                   | [Solution](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.sql)                                             |
+
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
