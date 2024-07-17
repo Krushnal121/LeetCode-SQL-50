@@ -42,6 +42,8 @@ The repository is structured as follows:
 | 6   | [Replace Employee ID With The Unique Identifier](06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier/06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier.md)                         | [Solution](06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier/06.LeetCode@1378_Replace_Employee_ID_With_The_Unique_Identifier.sql)                 |
 | 7   | [Product Sales Analysis I](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.md)                                                                                           | [Solution](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.sql)                                                             |
 | 8   | [Customer Who Visited but Did Not Make Any Transactions](08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.md) | [Solution](08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
+| 9   | [Rising Temperature](09.LeetCode@197_Rising_Temperature/09.LeetCode@197_Rising_Temperature.md)                                                                                                               | [Solution](09.LeetCode@197_Rising_Temperature/09.LeetCode@197_Rising_Temperature.sql)                                                                           |
+
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
