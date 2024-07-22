@@ -47,6 +47,7 @@ The repository is structured as follows:
 | 11  | [Employee Bonus](11.LeetCode@577_Employee_Bonus/11.LeetCode@577_Employee_Bonus.md)                                                                                                                           | [Solution](11.LeetCode@577_Employee_Bonus/11.LeetCode@577_Employee_Bonus.sql)                                                                                   |
 | 12  | [Students and Examinations](12.LeetCode@1280_Students_and_Examinations/12.LeetCode@1280_Students_and_Examinations.md)                                                                                        | [Solution](12.LeetCode@1280_Students_and_Examinations/12.LeetCode@1280_Students_and_Examinations.sql)                                                           |
 | 13  | [Managers with at Least 5 Direct Reports](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.md)                                                | [Solution](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.sql)                                 |
+| 14  | [Confirmation Rate](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.md)                                                                                                                | [Solution](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.sql)                                                                           |
 
 
 ## 🚀 Getting Started
