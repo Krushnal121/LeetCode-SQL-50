@@ -25,6 +25,7 @@ The repository is structured as follows:
 ## 📈 Progress
 
 | Day | Problem Title | Solution Link |
+| Day | Problem Title | Solution Link |
 |-----|---------------|---------------|
 | 1 | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql) |
 | 2 | [Find Customer Referee](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.md) | [Solution](02.LeetCode@584_Find_Customer_Referee/02.LeetCode@584_Find_Customer_Referee.sql) |
@@ -41,6 +42,8 @@ The repository is structured as follows:
 | 13 | [Managers with at Least 5 Direct Reports](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.md) | [Solution](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 14 | [Confirmation Rate](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.md) | [Solution](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.sql) |
 | 15 | [Not Boring Movies](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.md) | [Solution](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.sql) |
+| 16 | [Test folder](16.LeetCode@620_Test_folder/16.LeetCode@620_Test_folder.md) | [Solution](16.LeetCode@620_Test_folder/16.LeetCode@620_Test_folder.sql) |
+
 
 
 
