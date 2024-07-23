@@ -23,7 +23,7 @@ The repository is structured as follows:
   - `problem.md`: 📜 The problem statement from LeetCode.
   - `solution.sql`: 💾 My SQL solution to the problem.
 ## 📈 Progress
-| Day | Problem Title | Solution Link |
+
 | Day | Problem Title | Solution Link |
 |-----|---------------|---------------|
 | 1 | [Recyclable and Low Fat Products](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.md) | [Solution](01.LeetCode@1757_Recyclable_and_Low_Fat_Products/01.LeetCode@1757_Recyclable_and_Low_Fat_Products.sql) |
