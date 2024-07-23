@@ -42,3 +42,24 @@ The repository is structured as follows:
 | 14 | [Confirmation Rate](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.md) | [Solution](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.sql) |
 | 15 | [Not Boring Movies](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.md) | [Solution](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.sql) |
 | 16 | [Test folder](16.LeetCode@620_Test_folder/16.LeetCode@620_Test_folder.md) | [Solution](16.LeetCode@620_Test_folder/16.LeetCode@620_Test_folder.sql) |
+
+## 🚀 Getting Started
+To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
+### 🛠️ Prerequisites
+To run the SQL queries, you will need access to a SQL database. I recommend using:
+- `MySQL`
+- `PostgreSQL`
+- `SQLite`
+Ensure that you have a basic understanding of SQL and how to execute SQL queries in your chosen database.
+### 💡 Running the Solutions
+1. Copy the content of the `solution.sql` file for the respective day.
+2. Open your SQL database management tool.
+3. Execute the query to see the results.
+## 🤝 Contributions
+This repository is primarily for my personal learning, but contributions are welcome! If you have suggestions for better solutions or alternative approaches, feel free to open a pull request or create an issue.
+## 🙏 Acknowledgments
+- [LeetCode](https://leetcode.com/) for providing an excellent platform for coding challenges.
+- The SQL community for the endless resources and support.
+## 📬 Contact
+For any questions or suggestions, feel free to reach out to me via GitHub issues.
+Happy coding! 🎉
