@@ -50,6 +50,13 @@ The repository is structured as follows:
 
 
 
+
+
+
+
+
+
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 ### 🛠️ Prerequisites
