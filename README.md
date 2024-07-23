@@ -21,5 +21,6 @@
 | 16 | [Test direc](16.LeetCode@620_Test_direc/16.LeetCode@620_Test_direc.md) | [Solution](16.LeetCode@620_Test_direc/16.LeetCode@620_Test_direc.sql) |
 
 
+
 | Day | Problem Title | Solution Link |
 |-----|---------------|---------------|
