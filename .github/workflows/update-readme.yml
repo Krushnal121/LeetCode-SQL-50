@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
     branches:
-      - main  # or your default branch name
+      - main
 
 jobs:
   update-readme:
@@ -12,6 +12,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
+        token: ${{ secrets.PAT }}
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -22,7 +23,7 @@ jobs:
         pip install PyGithub
     - name: Update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: python .github/scripts/update_readme.py
     - name: Check for README.md
       id: check_readme
@@ -38,12 +39,24 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md" && git push)
-    - name: Pull and retry push if needed
-      if: failure() && steps.check_readme.outputs.README_EXISTS == 'true'
-      run: |
-        git pull --rebase origin main
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md")
+        
+        # Try to push changes
+        MAX_RETRIES=5
+        RETRY_COUNT=0
+        while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+          if git push; then
+            echo "Changes pushed successfully"
+            exit 0
+          else
+            echo "Push failed. Attempting to pull and rebase..."
+            git pull --rebase origin main
+            RETRY_COUNT=$((RETRY_COUNT+1))
+          fi
+        done
+        
+        echo "Failed to push changes after $MAX_RETRIES attempts"
+        exit 1
     - name: Report README not found
       if: steps.check_readme.outputs.README_EXISTS == 'false'
       run: |
