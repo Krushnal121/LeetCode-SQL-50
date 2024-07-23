@@ -43,31 +43,6 @@ The repository is structured as follows:
 | 15 | [Not Boring Movies](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.md) | [Solution](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.sql) |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 ### 🛠️ Prerequisites
