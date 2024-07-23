@@ -24,8 +24,9 @@ def update_readme(repo):
     try:
         readme_file = repo.get_contents(readme_path)
         readme_content = readme_file.decoded_content.decode("utf-8")
+        print(f"Existing README.md found. Content length: {len(readme_content)}")
     except UnknownObjectException:
-        print(f"Error: README.md not found. Creating a new file.")
+        print(f"README.md not found. Creating a new file.")
         readme_content = "# LeetCode SQL 50\n\n| Day | Problem Title | Solution Link |\n|-----|---------------|---------------|\n"
 
     table_pattern = r'\| Day \| Problem Title.*?\n(.*?)\n\n'
@@ -36,6 +37,7 @@ def update_readme(repo):
         readme_content += "\n| Day | Problem Title | Solution Link |\n|-----|---------------|---------------|\n"
 
     directories = [d for d in os.listdir('.') if os.path.isdir(d) and d.startswith(tuple(str(i) for i in range(10)))]
+    print(f"Found {len(directories)} problem directories")
     table_rows = []
 
     for directory in sorted(directories, key=lambda x: int(x.split('.')[0])):
@@ -55,7 +57,7 @@ def update_readme(repo):
                 repo.update_file(readme_path, "Update README.md", updated_content, readme_file.sha)
             else:
                 repo.create_file(readme_path, "Create README.md", updated_content)
-            print("README.md updated successfully")
+            print(f"README.md updated successfully. New content length: {len(updated_content)}")
         except Exception as e:
             print(f"Error updating README.md: {str(e)}")
     else:

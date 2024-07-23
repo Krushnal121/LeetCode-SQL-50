@@ -31,10 +31,23 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python .github/scripts/update_readme.py
+    - name: Check for README.md
+      id: check_readme
+      run: |
+        if [ -f README.md ]; then
+          echo "README_EXISTS=true" >> $GITHUB_OUTPUT
+        else
+          echo "README_EXISTS=false" >> $GITHUB_OUTPUT
+        fi
     - name: Commit changes
+      if: steps.check_readme.outputs.README_EXISTS == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Update README.md"
         git push
+    - name: Report README not found
+      if: steps.check_readme.outputs.README_EXISTS == 'false'
+      run: |
+        echo "README.md was not found. Please check the update_readme.py script output for more information."
