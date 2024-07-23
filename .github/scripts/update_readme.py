@@ -1,8 +1,5 @@
 import os
 import re
-from github import Github
-from github.GithubException import UnknownObjectException
-
 
 def get_problem_info(directory):
     match = re.match(r'(\d+)\.LeetCode@(\d+)_(.+)', directory)
@@ -12,20 +9,18 @@ def get_problem_info(directory):
         return int(day), problem_id, problem_name
     return None
 
-
 def generate_table_row(day, problem_id, problem_name, directory):
     problem_link = f"{directory}/{directory}.md"
     solution_link = f"{directory}/{directory}.sql"
     return f"| {day} | [{problem_name}]({problem_link}) | [Solution]({solution_link}) |\n"
 
-
-def update_readme(repo):
+def update_readme():
     readme_path = "README.md"
-    try:
-        readme_file = repo.get_contents(readme_path)
-        readme_content = readme_file.decoded_content.decode("utf-8")
+    if os.path.exists(readme_path):
+        with open(readme_path, 'r') as file:
+            readme_content = file.read()
         print(f"Existing README.md found. Content length: {len(readme_content)}")
-    except UnknownObjectException:
+    else:
         print(f"README.md not found. Creating a new file.")
         readme_content = "# LeetCode SQL 50\n\n"
 
@@ -42,8 +37,7 @@ def update_readme(repo):
             day, problem_id, problem_name = problem_info
             table_rows.append(generate_table_row(day, problem_id, problem_name, directory))
 
-    new_table = "| Day | Problem Title | Solution Link |\n|-----|---------------|---------------|\n" + "".join(
-        table_rows)
+    new_table = "| Day | Problem Title | Solution Link |\n|-----|---------------|---------------|\n" + "".join(table_rows)
 
     if table_match:
         updated_content = re.sub(table_pattern, new_table, readme_content, flags=re.DOTALL)
@@ -51,23 +45,11 @@ def update_readme(repo):
         updated_content = readme_content + "\n" + new_table + "\n"
 
     if updated_content != readme_content:
-        try:
-            if 'readme_file' in locals():
-                repo.update_file(readme_path, "Update README.md", updated_content, readme_file.sha)
-            else:
-                repo.create_file(readme_path, "Create README.md", updated_content)
-            print(f"README.md updated successfully. New content length: {len(updated_content)}")
-        except Exception as e:
-            print(f"Error updating README.md: {str(e)}")
+        with open(readme_path, 'w') as file:
+            file.write(updated_content)
+        print(f"README.md updated successfully. New content length: {len(updated_content)}")
     else:
         print("No changes needed in README.md")
 
-
 if __name__ == "__main__":
-    github_token = os.environ["GITHUB_TOKEN"]
-    repo_name = os.environ["GITHUB_REPOSITORY"]
-
-    g = Github(github_token)
-    repo = g.get_repo(repo_name)
-
-    update_readme(repo)
+    update_readme()
