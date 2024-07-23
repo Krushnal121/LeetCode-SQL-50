@@ -41,8 +41,6 @@ The repository is structured as follows:
 | 13 | [Managers with at Least 5 Direct Reports](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.md) | [Solution](13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports/13.LeetCode@570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 14 | [Confirmation Rate](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.md) | [Solution](14.LeetCode@1934_Confirmation_Rate/14.LeetCode@1934_Confirmation_Rate.sql) |
 | 15 | [Not Boring Movies](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.md) | [Solution](15.LeetCode@620_Not_Boring_Movies/15.LeetCode@620_Not_Boring_Movies.sql) |
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 ### 🛠️ Prerequisites
