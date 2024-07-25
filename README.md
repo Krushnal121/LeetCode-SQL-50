@@ -44,6 +44,7 @@ The repository is structured as follows:
 | 16 | [Average Selling Price](16.LeetCode@1251_Average_Selling_Price/16.LeetCode@1251_Average_Selling_Price.md) | [Solution](16.LeetCode@1251_Average_Selling_Price/16.LeetCode@1251_Average_Selling_Price.sql) |
 | 17 | [Project Employees I](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.md) | [Solution](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 ### 🛠️ Prerequisites
