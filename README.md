@@ -48,6 +48,7 @@ The repository is structured as follows:
 | 17 | [Project Employees I](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.md) | [Solution](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.sql) |
 | 18 | [Percentage of Users Attended a Contest](18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest/18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest.md) | [Solution](18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest/18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
