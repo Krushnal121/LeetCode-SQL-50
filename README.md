@@ -50,6 +50,7 @@ The repository is structured as follows:
 | 19 | [Queries Quality and Percentage](19.LeetCode@1211_Queries_Quality_and_Percentage/19.LeetCode@1211_Queries_Quality_and_Percentage.md) | [Solution](19.LeetCode@1211_Queries_Quality_and_Percentage/19.LeetCode@1211_Queries_Quality_and_Percentage.sql) |
 | 20 | [Monthly Transactions I](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.md) | [Solution](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
