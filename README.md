@@ -48,6 +48,8 @@ The repository is structured as follows:
 | 17 | [Project Employees I](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.md) | [Solution](17.LeetCode@1075_Project_Employees_I/17.LeetCode@1075_Project_Employees_I.sql) |
 | 18 | [Percentage of Users Attended a Contest](18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest/18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest.md) | [Solution](18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest/18.LeetCode@1633_Percentage_of_Users_Attended_a_Contest.sql) |
 | 19 | [Queries Quality and Percentage](19.LeetCode@1211_Queries_Quality_and_Percentage/19.LeetCode@1211_Queries_Quality_and_Percentage.md) | [Solution](19.LeetCode@1211_Queries_Quality_and_Percentage/19.LeetCode@1211_Queries_Quality_and_Percentage.sql) |
+| 20 | [Monthly Transactions I](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.md) | [Solution](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.sql) |
+
 
 
 ## 🚀 Getting Started
