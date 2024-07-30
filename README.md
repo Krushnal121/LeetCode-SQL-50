@@ -52,6 +52,7 @@ The repository is structured as follows:
 | 21 | [Immediate Food Delivery II](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.md) | [Solution](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.sql) |
 | 22 | [Game Play Analysis IV](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.md) | [Solution](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
