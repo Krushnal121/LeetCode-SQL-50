@@ -51,6 +51,8 @@ The repository is structured as follows:
 | 20 | [Monthly Transactions I](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.md) | [Solution](20.LeetCode@1193_Monthly_Transactions_I/20.LeetCode@1193_Monthly_Transactions_I.sql) |
 | 21 | [Immediate Food Delivery II](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.md) | [Solution](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.sql) |
 | 22 | [Game Play Analysis IV](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.md) | [Solution](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.sql) |
+| 23 | [Number of Unique Subjects Taught by Each Teacher](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.md) | [Solution](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) |
+
 
 
 ## 🚀 Getting Started
