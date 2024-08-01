@@ -54,8 +54,6 @@ The repository is structured as follows:
 | 23 | [Number of Unique Subjects Taught by Each Teacher](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.md) | [Solution](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) |
 | 24 | [User Activity for the Past 30 Days I](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.md) | [Solution](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
