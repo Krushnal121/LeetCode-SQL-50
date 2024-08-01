@@ -52,6 +52,8 @@ The repository is structured as follows:
 | 21 | [Immediate Food Delivery II](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.md) | [Solution](21.LeetCode@1174_Immediate_Food_Delivery_II/21.LeetCode@1174_Immediate_Food_Delivery_II.sql) |
 | 22 | [Game Play Analysis IV](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.md) | [Solution](22.LeetCode@550_Game_Play_Analysis_IV/22.LeetCode@550_Game_Play_Analysis_IV.sql) |
 | 23 | [Number of Unique Subjects Taught by Each Teacher](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.md) | [Solution](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) |
+| 24 | [User Activity for the Past 30 Days I](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.md) | [Solution](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.sql) |
+
 
 
 ## 🚀 Getting Started
