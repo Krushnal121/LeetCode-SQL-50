@@ -55,8 +55,6 @@ The repository is structured as follows:
 | 24 | [User Activity for the Past 30 Days I](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.md) | [Solution](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.sql) |
 | 25 | [Product Sales Analysis III](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.md) | [Solution](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
