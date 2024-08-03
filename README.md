@@ -56,6 +56,7 @@ The repository is structured as follows:
 | 25 | [Product Sales Analysis III](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.md) | [Solution](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.sql) |
 | 26 | [Classes More Than 5 Students](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.md) | [Solution](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
