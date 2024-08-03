@@ -54,6 +54,8 @@ The repository is structured as follows:
 | 23 | [Number of Unique Subjects Taught by Each Teacher](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.md) | [Solution](23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/23.LeetCode@2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) |
 | 24 | [User Activity for the Past 30 Days I](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.md) | [Solution](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.sql) |
 | 25 | [Product Sales Analysis III](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.md) | [Solution](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.sql) |
+| 26 | [Classes More Than 5 Students](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.md) | [Solution](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.sql) |
+
 
 
 ## 🚀 Getting Started
