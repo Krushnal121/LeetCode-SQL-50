@@ -55,6 +55,8 @@ The repository is structured as follows:
 | 24 | [User Activity for the Past 30 Days I](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.md) | [Solution](24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I/24.LeetCode@1141_User_Activity_for_the_Past_30_Days_I.sql) |
 | 25 | [Product Sales Analysis III](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.md) | [Solution](25.LeetCode@1070_Product_Sales_Analysis_III/25.LeetCode@1070_Product_Sales_Analysis_III.sql) |
 | 26 | [Classes More Than 5 Students](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.md) | [Solution](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.sql) |
+| 27 | [Find Followers Count](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.md) | [Solution](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.sql) |
+
 
 
 ## 🚀 Getting Started
