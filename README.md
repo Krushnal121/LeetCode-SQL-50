@@ -58,6 +58,7 @@ The repository is structured as follows:
 | 27 | [Find Followers Count](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.md) | [Solution](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.sql) |
 | 28 | [Biggest Single Number](28.LeetCode@619_Biggest_Single_Number/28.LeetCode@619_Biggest_Single_Number.md) | [Solution](28.LeetCode@619_Biggest_Single_Number/28.LeetCode@619_Biggest_Single_Number.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
