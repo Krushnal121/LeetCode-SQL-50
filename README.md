@@ -57,6 +57,8 @@ The repository is structured as follows:
 | 26 | [Classes More Than 5 Students](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.md) | [Solution](26.LeetCode@596_Classes_More_Than_5_Students/26.LeetCode@596_Classes_More_Than_5_Students.sql) |
 | 27 | [Find Followers Count](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.md) | [Solution](27.LeetCode@1729_Find_Followers_Count/27.LeetCode@1729_Find_Followers_Count.sql) |
 | 28 | [Biggest Single Number](28.LeetCode@619_Biggest_Single_Number/28.LeetCode@619_Biggest_Single_Number.md) | [Solution](28.LeetCode@619_Biggest_Single_Number/28.LeetCode@619_Biggest_Single_Number.sql) |
+| 29 | [Customers Who Bought All Products](29.LeetCode@1045_Customers_Who_Bought_All_Products/29.LeetCode@1045_Customers_Who_Bought_All_Products.md) | [Solution](29.LeetCode@1045_Customers_Who_Bought_All_Products/29.LeetCode@1045_Customers_Who_Bought_All_Products.sql) |
+
 
 
 ## 🚀 Getting Started
