@@ -61,9 +61,6 @@ The repository is structured as follows:
 | 30 | [The Number of Employees Which Report to Each Employee](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.md) | [Solution](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) |
 | 31 | [Primary Department for Each Employee](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.md) | [Solution](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.sql) |
 
-
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
