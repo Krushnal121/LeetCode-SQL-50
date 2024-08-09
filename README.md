@@ -60,6 +60,8 @@ The repository is structured as follows:
 | 29 | [Customers Who Bought All Products](29.LeetCode@1045_Customers_Who_Bought_All_Products/29.LeetCode@1045_Customers_Who_Bought_All_Products.md) | [Solution](29.LeetCode@1045_Customers_Who_Bought_All_Products/29.LeetCode@1045_Customers_Who_Bought_All_Products.sql) |
 | 30 | [The Number of Employees Which Report to Each Employee](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.md) | [Solution](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) |
 | 31 | [Primary Department for Each Employee](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.md) | [Solution](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.sql) |
+| 32 | [Triangle Judgement](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.md) | [Solution](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.sql) |
+
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
