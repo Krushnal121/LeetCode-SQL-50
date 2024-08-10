@@ -61,6 +61,8 @@ The repository is structured as follows:
 | 30 | [The Number of Employees Which Report to Each Employee](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.md) | [Solution](30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee/30.LeetCode@1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) |
 | 31 | [Primary Department for Each Employee](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.md) | [Solution](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.sql) |
 | 32 | [Triangle Judgement](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.md) | [Solution](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.sql) |
+| 33 | [Consecutive Numbers](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.md) | [Solution](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.sql) |
+
 
 
 ## 🚀 Getting Started
