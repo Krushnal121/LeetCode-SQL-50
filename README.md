@@ -63,6 +63,7 @@ The repository is structured as follows:
 | 32 | [Triangle Judgement](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.md) | [Solution](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.sql) |
 | 33 | [Consecutive Numbers](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.md) | [Solution](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
