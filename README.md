@@ -62,6 +62,8 @@ The repository is structured as follows:
 | 31 | [Primary Department for Each Employee](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.md) | [Solution](31.LeetCode@1789_Primary_Department_for_Each_Employee/31.LeetCode@1789_Primary_Department_for_Each_Employee.sql) |
 | 32 | [Triangle Judgement](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.md) | [Solution](32.LeetCode@610_Triangle_Judgement/32.LeetCode@610_Triangle_Judgement.sql) |
 | 33 | [Consecutive Numbers](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.md) | [Solution](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.sql) |
+| 34 | [Product Price at a Given Date](34.LeetCode@1164_Product_Price_at_a_Given_Date/34.LeetCode@1164_Product_Price_at_a_Given_Date.md) | [Solution](34.LeetCode@1164_Product_Price_at_a_Given_Date/34.LeetCode@1164_Product_Price_at_a_Given_Date.sql) |
+
 
 
 ## 🚀 Getting Started
