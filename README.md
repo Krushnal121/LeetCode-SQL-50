@@ -64,6 +64,7 @@ The repository is structured as follows:
 | 33 | [Consecutive Numbers](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.md) | [Solution](33.LeetCode@180_Consecutive_Numbers/33.LeetCode@180_Consecutive_Numbers.sql) |
 | 34 | [Product Price at a Given Date](34.LeetCode@1164_Product_Price_at_a_Given_Date/34.LeetCode@1164_Product_Price_at_a_Given_Date.md) | [Solution](34.LeetCode@1164_Product_Price_at_a_Given_Date/34.LeetCode@1164_Product_Price_at_a_Given_Date.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
