@@ -66,8 +66,6 @@ The repository is structured as follows:
 | 35 | [Last Person to Fit in the Bus](35.LeetCode@1204_Last_Person_to_Fit_in_the_Bus/35.LeetCode@1204_Last_Person_to_Fit_in_the_Bus.md) | [Solution](35.LeetCode@1204_Last_Person_to_Fit_in_the_Bus/35.LeetCode@1204_Last_Person_to_Fit_in_the_Bus.sql) |
 | 36 | [Count Salary Categories](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.md) | [Solution](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
