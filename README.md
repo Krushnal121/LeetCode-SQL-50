@@ -67,6 +67,7 @@ The repository is structured as follows:
 | 36 | [Count Salary Categories](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.md) | [Solution](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.sql) |
 | 37 | [Employees Whose Manager Left the Company](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.md) | [Solution](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
