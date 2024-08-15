@@ -68,8 +68,6 @@ The repository is structured as follows:
 | 37 | [Employees Whose Manager Left the Company](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.md) | [Solution](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.sql) |
 | 38 | [Exchange Seats](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.md) | [Solution](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
