@@ -67,6 +67,8 @@ The repository is structured as follows:
 | 36 | [Count Salary Categories](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.md) | [Solution](36.LeetCode@1907_Count_Salary_Categories/36.LeetCode@1907_Count_Salary_Categories.sql) |
 | 37 | [Employees Whose Manager Left the Company](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.md) | [Solution](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.sql) |
 | 38 | [Exchange Seats](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.md) | [Solution](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.sql) |
+| 39 | [Movie Rating](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.md) | [Solution](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.sql) |
+
 
 
 ## 🚀 Getting Started
