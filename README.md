@@ -69,6 +69,7 @@ The repository is structured as follows:
 | 38 | [Exchange Seats](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.md) | [Solution](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.sql) |
 | 39 | [Movie Rating](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.md) | [Solution](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
