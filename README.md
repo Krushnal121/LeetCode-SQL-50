@@ -68,6 +68,8 @@ The repository is structured as follows:
 | 37 | [Employees Whose Manager Left the Company](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.md) | [Solution](37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company/37.LeetCode@1978_Employees_Whose_Manager_Left_the_Company.sql) |
 | 38 | [Exchange Seats](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.md) | [Solution](38.LeetCode@626_Exchange_Seats/38.LeetCode@626_Exchange_Seats.sql) |
 | 39 | [Movie Rating](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.md) | [Solution](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.sql) |
+| 40 | [Restaurant Growth](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.md) | [Solution](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.sql) |
+
 
 
 ## 🚀 Getting Started
