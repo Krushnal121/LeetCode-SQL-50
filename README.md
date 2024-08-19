@@ -70,6 +70,8 @@ The repository is structured as follows:
 | 39 | [Movie Rating](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.md) | [Solution](39.LeetCode@1341_Movie_Rating/39.LeetCode@1341_Movie_Rating.sql) |
 | 40 | [Restaurant Growth](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.md) | [Solution](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.sql) |
 | 41 | [Friend Requests II Who Has the Most Friends](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.md) | [Solution](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) |
+| 42 | [Investments in 2016](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.md) | [Solution](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.sql) |
+
 
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
