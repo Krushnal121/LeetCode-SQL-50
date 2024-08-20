@@ -71,6 +71,8 @@ The repository is structured as follows:
 | 40 | [Restaurant Growth](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.md) | [Solution](40.LeetCode@1321_Restaurant_Growth/40.LeetCode@1321_Restaurant_Growth.sql) |
 | 41 | [Friend Requests II Who Has the Most Friends](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.md) | [Solution](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) |
 | 42 | [Investments in 2016](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.md) | [Solution](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.sql) |
+| 43 | [Department Top Three Salaries](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.md) | [Solution](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.sql) |
+
 
 
 ## 🚀 Getting Started
