@@ -72,6 +72,8 @@ The repository is structured as follows:
 | 41 | [Friend Requests II Who Has the Most Friends](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.md) | [Solution](41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends/41.LeetCode@602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) |
 | 42 | [Investments in 2016](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.md) | [Solution](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.sql) |
 | 43 | [Department Top Three Salaries](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.md) | [Solution](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.sql) |
+| 44 | [Fix Names in a Table](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.md) | [Solution](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.sql) |
+
 
 
 ## 🚀 Getting Started
