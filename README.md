@@ -74,8 +74,6 @@ The repository is structured as follows:
 | 43 | [Department Top Three Salaries](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.md) | [Solution](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.sql) |
 | 44 | [Fix Names in a Table](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.md) | [Solution](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
