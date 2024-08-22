@@ -73,6 +73,8 @@ The repository is structured as follows:
 | 42 | [Investments in 2016](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.md) | [Solution](42.LeetCode@585_Investments_in_2016/42.LeetCode@585_Investments_in_2016.sql) |
 | 43 | [Department Top Three Salaries](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.md) | [Solution](43.LeetCode@185_Department_Top_Three_Salaries/43.LeetCode@185_Department_Top_Three_Salaries.sql) |
 | 44 | [Fix Names in a Table](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.md) | [Solution](44.LeetCode@1667_Fix_Names_in_a_Table/44.LeetCode@1667_Fix_Names_in_a_Table.sql) |
+| 45 | [Patients With a Condition](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.md) | [Solution](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.sql) |
+
 
 
 ## 🚀 Getting Started
