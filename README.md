@@ -76,6 +76,7 @@ The repository is structured as follows:
 | 45 | [Patients With a Condition](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.md) | [Solution](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.sql) |
 | 46 | [Delete Duplicate Emails](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.md) | [Solution](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.sql) |
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
