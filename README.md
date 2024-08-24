@@ -77,8 +77,6 @@ The repository is structured as follows:
 | 46 | [Delete Duplicate Emails](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.md) | [Solution](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.sql) |
 | 47 | [Second Highest Salary](47.LeetCode@176_Second_Highest_Salary/47.LeetCode@176_Second_Highest_Salary.md) | [Solution](47.LeetCode@176_Second_Highest_Salary/47.LeetCode@176_Second_Highest_Salary.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
