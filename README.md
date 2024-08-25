@@ -76,6 +76,8 @@ The repository is structured as follows:
 | 45 | [Patients With a Condition](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.md) | [Solution](45.LeetCode@1527_Patients_With_a_Condition/45.LeetCode@1527_Patients_With_a_Condition.sql) |
 | 46 | [Delete Duplicate Emails](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.md) | [Solution](46.LeetCode@196_Delete_Duplicate_Emails/46.LeetCode@196_Delete_Duplicate_Emails.sql) |
 | 47 | [Second Highest Salary](47.LeetCode@176_Second_Highest_Salary/47.LeetCode@176_Second_Highest_Salary.md) | [Solution](47.LeetCode@176_Second_Highest_Salary/47.LeetCode@176_Second_Highest_Salary.sql) |
+| 48 | [Group Sold Products By The Date](48.LeetCode@1484_Group_Sold_Products_By_The_Date/48.LeetCode@1484_Group_Sold_Products_By_The_Date.md) | [Solution](48.LeetCode@1484_Group_Sold_Products_By_The_Date/48.LeetCode@1484_Group_Sold_Products_By_The_Date.sql) |
+
 
 
 ## 🚀 Getting Started
