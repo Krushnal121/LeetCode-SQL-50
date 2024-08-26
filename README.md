@@ -79,8 +79,6 @@ The repository is structured as follows:
 | 48 | [Group Sold Products By The Date](48.LeetCode@1484_Group_Sold_Products_By_The_Date/48.LeetCode@1484_Group_Sold_Products_By_The_Date.md) | [Solution](48.LeetCode@1484_Group_Sold_Products_By_The_Date/48.LeetCode@1484_Group_Sold_Products_By_The_Date.sql) |
 | 49 | [List the Products Ordered in a Period](49.LeetCode@1327_List_the_Products_Ordered_in_a_Period/49.LeetCode@1327_List_the_Products_Ordered_in_a_Period.md) | [Solution](49.LeetCode@1327_List_the_Products_Ordered_in_a_Period/49.LeetCode@1327_List_the_Products_Ordered_in_a_Period.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
