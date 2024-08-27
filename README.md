@@ -80,8 +80,6 @@ The repository is structured as follows:
 | 49 | [List the Products Ordered in a Period](49.LeetCode@1327_List_the_Products_Ordered_in_a_Period/49.LeetCode@1327_List_the_Products_Ordered_in_a_Period.md) | [Solution](49.LeetCode@1327_List_the_Products_Ordered_in_a_Period/49.LeetCode@1327_List_the_Products_Ordered_in_a_Period.sql) |
 | 50 | [Find Users With Valid E-Mails](50.LeetCode@1517_Find_Users_With_Valid_E-Mails/50.LeetCode@1517_Find_Users_With_Valid_E-Mails.md) | [Solution](50.LeetCode@1517_Find_Users_With_Valid_E-Mails/50.LeetCode@1517_Find_Users_With_Valid_E-Mails.sql) |
 
-
-
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
