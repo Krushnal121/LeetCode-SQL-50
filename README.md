@@ -85,6 +85,7 @@ The repository is structured as follows:
 | 50 | [Find Users With Valid E-Mails](50.LeetCode@1517_Find_Users_With_Valid_E-Mails/50.LeetCode@1517_Find_Users_With_Valid_E-Mails.md) | [Solution](50.LeetCode@1517_Find_Users_With_Valid_E-Mails/50.LeetCode@1517_Find_Users_With_Valid_E-Mails.sql) |
 
 
+
 ## 🚀 Getting Started
 To view the solutions, navigate to the corresponding day's folder and open the `solution.sql` file.
 
