@@ -1,4 +1,8 @@
 #  LeetCode-SQL-50 ⚡
+
+![SQL50](https://github.com/user-attachments/assets/7ae00f61-1091-4716-80d0-f635e93ba740)
+
+
 Welcome to the **LeetCode-SQL-50** repository! This project documents my journey of solving one SQL problem from LeetCode every day for the next 50 days. 🚀
 
 ## 🌟 Introduction
